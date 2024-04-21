@@ -1,2 +1,2 @@
 # Openclassroomsprojet
-htpps://github.com/etudiantOC/Openclassroomsprojet.git
+https://github.com/etudiantOC/Openclassroomsprojet.git
